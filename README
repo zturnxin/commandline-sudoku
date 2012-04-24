@@ -1,0 +1,10 @@
+This is a command line sudoku game for Linux.
+
+Installation:
+
+$ make
+$ make install-db #generate 3 data files("easy.db, medium.db, hard.db") in working directory.
+
+Run:
+./sudoku
+
