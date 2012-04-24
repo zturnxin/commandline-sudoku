@@ -6,5 +6,8 @@ $ make
 $ make install-db #generate 3 data files("easy.db, medium.db, hard.db") in working directory.
 
 Run:
-./sudoku
+$./sudoku
 
+
+Uninstall:
+$ make uninstall-db
